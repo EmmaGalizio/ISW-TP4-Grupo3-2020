@@ -18,5 +18,5 @@ ISW-TP4-Grupo3-2020
 
 #### Criterios para la creación de la linea base
 
->Los momentos donde se definirán las líneas bases, serán el primer dia hábil despues de cada examen parcial 
-y recuperatorio de la de la cátedra de **Ingeniería de Software**.
+>Los momentos donde se definirán las líneas bases, serán el primer dia hábil despues 
+de cada examen parcial y recuperatorio de la de la cátedra de **Ingeniería de Software**.
