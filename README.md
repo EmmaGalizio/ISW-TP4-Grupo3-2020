@@ -8,7 +8,7 @@ ISW-TP4-Grupo3-2020
 ├── Ingenieria_de_Software
 │   └── 2020
 │   	├── Practico
-│	    │    └── Trabajos_Practicos_Evaluables
+│	│    └── Trabajos_Practicos_Evaluables
 │   	└── Teorico
 │	        └── Bibliografia 
 │	        └── Notas_de_Clase 
